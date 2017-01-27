@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="styleActivity">
+        <item name="android:background">@color/colorBackground
+        </item>
+    </style>
+
+    <style name="styleButtonStart">
+        <item name="android:textColor">@color/colorStart</item>
+        <item name="android:background">@drawable/button_start</item>
+    </style>
+
+    <style name="styleText">
+        <item name="android:textColor">@color/colorText
+        </item>
+    </style>
+</resources>
